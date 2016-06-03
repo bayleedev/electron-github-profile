@@ -1,8 +1,3 @@
-const ReactDOM = require('react-dom')
-const React = require('react')
-const Display = require('./components/display')
-const Search = require('./components/search')
-
 const GitHub = React.createClass({
 
   getInitialState () {

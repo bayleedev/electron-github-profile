@@ -1,5 +1,3 @@
-const React = require('react')
-
 const Search = React.createClass({
   propTypes: {
     value: React.PropTypes.string.isRequired,

@@ -1,5 +1,3 @@
-const React = require('react')
-
 const Display = React.createClass({
   propTypes: {
     avatar_url: React.PropTypes.string.isRequired,
